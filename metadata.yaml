@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26436
     wikipedia: http://en.wikipedia.org/wiki/Francis_Greenwood_Peabody
 description: V. 1. First series -- v. 2. Second series.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24373#Mornings-in-the-College-ChapelShort-Addresses-to-Young-Men-on-Personal-Religion
 gutenberg_issued: '2008-01-20'
 gutenberg_type: Text
 identifiers:
